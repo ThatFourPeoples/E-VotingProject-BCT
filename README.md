@@ -18,6 +18,7 @@
 ![image](https://github.com/ThatFourPeoples/E-VotingProject-BCT/assets/93985255/7572e369-139d-4aa6-88c3-2982e68e09d0)
 
 ## Team Members
-1. Prashant Jagtap
-2. Arjun Kadam
-3. Shubham Bhoite
+1. Sham Machale
+2. Prashant Jagtap
+3. Arjun Kadam
+4. Shubham Bhoite
